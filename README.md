@@ -24,7 +24,6 @@
 [![](images/button-pe-union.png)](https://github.com/bytecode77/pe-union "Go to GitHub project page")
 
 <br />
-<br />
 
 ## Living Off The Land
 
