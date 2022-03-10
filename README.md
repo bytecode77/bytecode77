@@ -8,7 +8,7 @@
  - Out of the box, single file installer
  - Fileless persistence, in-memory injection
 
-[» r77 Rootkit](https://github.com/bytecode77/r77-rootkit)
+[![](images/button-r77-rootkit.png)](https://github.com/bytecode77/r77-rootkit)
 
 <br />
 
@@ -21,7 +21,7 @@
  - In-memory decryption & execution
  - Two-layer execution architecture
 
-[» PEunion](https://github.com/bytecode77/pe-union)
+[![](images/button-pe-union.png)](https://github.com/bytecode77/pe-union)
 
 <br />
 <br />
@@ -38,4 +38,4 @@
 
 ... It's technically not even there
 
-[» Living Off The Land](https://github.com/bytecode77/living-off-the-land)
+[![](images/button-living-off-the-land.png)](https://github.com/bytecode77/living-off-the-land)
