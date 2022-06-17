@@ -9,7 +9,6 @@
  - Fileless persistence, in-memory injection
 
 [![](images/button-r77-rootkit.png)](https://github.com/bytecode77/r77-rootkit "Go to GitHub project page")
-<img align="right" src="https://img.shields.io/github/forks/bytecode77/r77-rootkit?style=social" /> <img align="right" src="https://img.shields.io/github/stars/bytecode77/r77-rootkit?style=social" />
 
 <br />
 
@@ -23,7 +22,6 @@
  - Two-layer execution architecture
 
 [![](images/button-pe-union.png)](https://github.com/bytecode77/pe-union "Go to GitHub project page")
-<img align="right" src="https://img.shields.io/github/forks/bytecode77/pe-union?style=social" /> <img align="right" src="https://img.shields.io/github/stars/bytecode77/pe-union?style=social" />
 
 <br />
 
@@ -40,4 +38,3 @@
 ... It's technically not even there
 
 [![](images/button-living-off-the-land.png)](https://github.com/bytecode77/living-off-the-land "Go to GitHub project page")
-<img align="right" src="https://img.shields.io/github/forks/bytecode77/living-off-the-land?style=social" /> <img align="right" src="https://img.shields.io/github/stars/bytecode77/living-off-the-land?style=social" />
