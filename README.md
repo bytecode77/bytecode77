@@ -2,7 +2,7 @@
 
 <a href="https://github.com/bytecode77/r77-rootkit"><img width="380" align="right" src="images/r77-rootkit.png"></a>
 
-### Ring 3 rootkit - your presence is invisible
+### Fileless ring 3 rootkit
 
  - Hides processes, files, network connections, etc.
  - Out of the box, single file installer
