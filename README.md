@@ -9,7 +9,7 @@
  - Fileless persistence, in-memory injection
 
 [![](images/button-r77-rootkit.png)](https://github.com/bytecode77/r77-rootkit "Go to GitHub project page")
-[![](https://bytecode77.com/public/github/badge-r77-rootkit.png)](#)
+[![](https://api.bytecode77.com/github/badge-r77-rootkit.png)](#)
 
 <br />
 
@@ -23,7 +23,7 @@
  - Two-layer execution architecture
 
 [![](images/button-pe-union.png)](https://github.com/bytecode77/pe-union "Go to GitHub project page")
-[![](https://bytecode77.com/public/github/badge-pe-union.png)](#)
+[![](https://api.bytecode77.com/github/badge-pe-union.png)](#)
 
 <br />
 
@@ -40,4 +40,4 @@
 ... It's technically not even there
 
 [![](images/button-living-off-the-land.png)](https://github.com/bytecode77/living-off-the-land "Go to GitHub project page")
-[![](https://bytecode77.com/public/github/badge-living-off-the-land.png)](#)
+[![](https://api.bytecode77.com/github/badge-living-off-the-land.png)](#)
